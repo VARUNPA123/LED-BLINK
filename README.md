@@ -82,7 +82,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
     
 ---
 
-### 💻 **Program**
+## 💻 **Program**
 
 
 ```c
@@ -107,11 +107,13 @@ int main(void)
 }
 ```
 ---
-### OUTPUT
+## OUTPUT
 CASE 1: LED ON 
+<img width="892" height="418" alt="image" src="https://github.com/user-attachments/assets/93a52f50-383e-4214-9d1a-aa029d6c57ae" />
 
 CASE 2: LED OFF
+<img width="1292" height="638" alt="image" src="https://github.com/user-attachments/assets/acf00b9c-8769-4b79-99c4-adccf82b001d" />
 
 ---
-### RESULT
+## RESULT
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
