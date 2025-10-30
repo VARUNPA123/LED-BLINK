@@ -1,18 +1,18 @@
 # LED-BLINK
 # 💡 Experiment 01 – Interfacing a Digital Output (LED) with ARM Development Board
 
-### 🎯 **Aim**
+## 🎯 **AIM**
 To interface a digital output (LED) to an ARM development board and write a blink code.
 
 ---
 
-### ⚙️ **Components Required**
+##⚙️ **COMPONENTS REQUIRED**
 - STM32CubeIDE  
 - NUCLEO ARM Development Board  
 
 ---
 
-### 🧠 **Theory**
+## 🧠 **THEORY**
 
 **ARM (Advanced RISC Machine)** is a 32-bit processor architecture developed by ARM Holdings. It is widely used in embedded systems and SoC (System-on-Chip) products. Many semiconductor companies like Samsung, Atmel, and Texas Instruments license ARM architecture to design their own SoCs.
 ### 🧩 **What is an ARM7 Processor?**
@@ -38,7 +38,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 ---
 
-### 🧭 **Procedure**
+### 🧭 **PROCEDURE**
 
 1. Open **STM32CubeIDE**.
    <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/64970b06-9ced-4974-a292-1e43d9bf9bef" />
@@ -82,7 +82,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
     
 ---
 
-## 💻 **Program**
+## 💻 **PROGRAM**
 
 
 ```c
